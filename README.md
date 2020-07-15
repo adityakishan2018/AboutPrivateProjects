@@ -10,7 +10,7 @@ Web application for customized message encryption(only for a single organisation
 
 # Self-Health-Monitoring
 The aim of this project is to build a web based health care application which can help in early and appropriate disease diagnosis. This in turn is expected to cut down the amount spent on general physician.This is a summer project done at VIT-AP University for 8 credits.
-**project demo ( )
+## project demo ( )
 **visit the website (https://doctalk.000webhostapp.com/).
 
 
