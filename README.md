@@ -1,6 +1,6 @@
 
 
-**Note : These are mini projects done at VIT-AP University.To avoid copying of project , I have made the actual repository private. If you are a potential employer interested to have a look at the code, please feel free to contact me (kishan.aditya2017@gmail.com).
+**Note : These are mini projects done at VIT-AP University.To avoid copying of project , I have made the actual repository private. If you are a potential employer and interested to have a look at the code, please feel free to contact me (kishan.aditya2017@gmail.com).
  Meanwhile you can have a look at the project demo or visit the website.**
  
 # CrypTalk
