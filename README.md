@@ -1,9 +1,5 @@
 
- 
-# CoffeeBot
-Simple Coffee Ordering web application using AWS Lex. Registration and Login part is yet to be included( not a big deal though). Also working on including ML based predictor which will tell whether they are fit to drink coffee or not.
-### project demo ( https://youtu.be/LJ3w0IuJ_Bg )
-### visit the website (http://cofeebot.000webhostapp.com/).
+# Brief description about the private projects on my github account.Please contact me if you want to view the complete code.
 
 # CrypTalk
 Web application for customized message encryption(only for a single organisation which requires secure message platform).This is a mini project done for ISS (Information and System Security) course at VIT-AP University.
