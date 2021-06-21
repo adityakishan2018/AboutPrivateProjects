@@ -14,9 +14,4 @@ Recently added a chatbot named "DocBot" which I built using AWS Lex.Presently, t
 ### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/DocTalk_Final_Review_document.pdf )
 ### visit the website (https://doctalk.000webhostapp.com/).
 
-# DocBot | ML based disease predictor and Hospital booking Web App
-This can be considered as an upgraded version of my previous project "DocTalk".The addressed problem is more or less same but the prediction algorithm has changed drastically. In this app we feed the user input to a well trained ML model.Then the model will spit out the predicted diagnosis result.The chatbot named "DocBot" was first used in this application.Later on I thought of including in its predecessor app (DocBot).
-Right now I am working on improving its UI and ML model acuuracy.
 
-### visit the website (http://multi-dis.herokuapp.com/).
-### project demo ( https://youtu.be/j0mrnhM8Zf8 )
