@@ -17,8 +17,7 @@ Recently added a chatbot named "DocBot" which I built using AWS Lex.Presently, t
 
 # Image Steganography using Python
 Today steganography is mostly used on computers with digital data, like Image, Audio, Video, Network packets, etc, acting as the carriers. Images are an excellent medium for concealing information because they provide a high degree of redundancy - which means that there are lots of bits that are there to provide accuracy far greater than necessary for the object's use (or display). Steganography techniques exploit these redundant bits to hide the information/payload by altering them in such a way that alterations cannot be detected easily by humans or computers.
-### project demo ( https://youtu.be/0wdVwwQN6Zs )
-### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/CrypTalk_Project_Report.pdf )
+### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/Hiding_and_reveal_algo.pdf )
 
 
 
