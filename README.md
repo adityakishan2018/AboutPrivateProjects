@@ -15,7 +15,7 @@ Moreover, consulting a doctor by meeting him/her in person, has become even more
 
 ### project demo (https://drive.google.com/file/d/14dP7q3WjSTDsgCJ-0KwNvdZ17U5qG7zw/view?usp=sharing )
 ### project documentation (  )
-### visit the website (http://docbot2021.herokuapp.com/).
+### visit the WebApp (http://docbot2021.herokuapp.com/).
 
 # Face Recognition Based Attendance Mailing System
 The Face Recognition based Attendance (Slot basis) Mailing System is an automated service built to be used by the schools colleges and universities to solve a lot of problems which was not addressed by the previous Attendance System ( mainly Biometric based).  
@@ -26,13 +26,12 @@ This mini project is a small endeavour towards solving these issues.
 
 ### project demo ( )
 ### project documentation (  )
-### visit the website ().
 
 # CrypTalk
 Web application for customized message encryption(only for a single organisation which requires secure message platform).This is a mini project done for ISS (Information and System Security) course at VIT-AP University.
 ### project demo ( https://youtu.be/0wdVwwQN6Zs )
 ### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/CrypTalk_Project_Report.pdf )
-### visit the website (https://cryptalk.000webhostapp.com/).
+### visit the WebApp (https://cryptalk.000webhostapp.com/).
 
 
 # Image Steganography using Python
