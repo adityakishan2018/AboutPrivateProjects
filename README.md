@@ -60,6 +60,9 @@ consisting of present student details) is sent to his/her mail id.
 ### Tech-Stack: 
 Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
 
+### Architecture Diagram
+![GitHub Logo](architecture_diagram.jpg)
+
 ### project demo ( )
 ### project documentation (  )
 
