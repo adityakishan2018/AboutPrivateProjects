@@ -23,6 +23,32 @@ In the pre-covid era, when the classes used to be held in physical classrooms, a
 There are several colleges and schools which have already started doing physical classroom sessions keeping Covid protocol in consideration. But biometric based attendance system has created a challenge because it will increase the risk of spreading covid as all students of a class will be using same biometric machine.
 This mini project is a small endeavour towards solving these issues. 
 
+There are four main problems that we are trying to solve with the help of this project:
+### Following are some of the problems in the existing system:
+I. Extra lecture time (10 minutes) wasted in registering attendance using a biometric sensorbased system.
+II. Absentees being able to give attendance because the sensor is located outside the
+classroom.
+III. High Risk of spreading Covid if continued with the existing biometric based Attendance
+System
+IV. (future problem) Students trying to give a proxy using friends' photos when they realise
+face recognition based technology is being used.
+
+### PROPOSED SOLUTION
+Following are solutions to the above-stated problems:
+I. With the help of face recognition (camera facing towards the classroom), the detected
+faces of the students in the live video feed will be taken and then matched with the faces
+of the registered students.
+II. The entire video feed will be visible to the faculty along with recognition status.
+III. There are three possible recognition statuses that a live face will be tagged with. These
+are “Name_of_student”, “Unknown”, “Name_of_student_fake”.
+IV. Upon successful recognition and liveness detection, their name, registration number, and
+time-stamp are recorded in a csv file.
+V. When the lecture time is over and the faculty ends the session, he/she is prompted to
+enter the password of his/her registered mail.
+VI. The login credentials of only that faculty will be considered who is allotted for that
+particular slot (day and time).
+VII. As soon as the password is entered, a mail consisting of the attendance report (csv file
+consisting of present student details) is sent to his/her mail id.
 
 ### project demo ( )
 ### project documentation (  )
