@@ -16,6 +16,10 @@ Moreover, consulting a doctor by meeting him/her in person, has become even more
 ### Tech-Stack
  HTML/CSS, Flask, Python, CoWIN API, AWS Lex, Heroku and various ML libraries for model preparation
  
+### Architecture Diagram
+![GitHub Logo](Architecture.png)
+
+ 
 ### project demo (https://drive.google.com/file/d/14dP7q3WjSTDsgCJ-0KwNvdZ17U5qG7zw/view?usp=sharing )
 ### project documentation (  )
 ### visit the WebApp (http://docbot2021.herokuapp.com/).
