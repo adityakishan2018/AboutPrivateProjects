@@ -14,7 +14,7 @@ Moreover, consulting a doctor by meeting him/her in person, has become even more
  4) Build “one stop solution” to all covid related services using Web API
 
 ### Tech-Stack
- HTML/CSS, Flask, Python, CoWIN API, AWS Lex, Heroku and various ML libraries for modelpreparation
+ HTML/CSS, Flask, Python, CoWIN API, AWS Lex, Heroku and various ML libraries for model preparation
  
 ### project demo (https://drive.google.com/file/d/14dP7q3WjSTDsgCJ-0KwNvdZ17U5qG7zw/view?usp=sharing )
 ### project documentation (  )
@@ -52,6 +52,9 @@ enter the password of his/her registered mail.
 particular slot (day and time).
 7) As soon as the password is entered, a mail consisting of the attendance report (csv file
 consisting of present student details) is sent to his/her mail id.
+
+### Tech-Stack: 
+Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
 
 ### project demo ( )
 ### project documentation (  )
