@@ -54,7 +54,7 @@ consisting of the insight report is sent.
 Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other libraries
 
 ### Data Flow Diagram
-![GitHub Logo](AboutPrivateProjects/images of AID project/14new_dfd.jpg)
+![GitHub Logo](images of AID project/14new_dfd.jpg)
 
 
 ### Architecture Diagram
