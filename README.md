@@ -1,3 +1,5 @@
+# Brief description about the private projects on my github account.Please contact me if you want to view the complete code.
+
 # AiD | Integrated AI tool in shopping malls to aid advertising decisions
 
 Big shopping malls are facing competition from e-commerce giants like Flipkart and
@@ -67,7 +69,7 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 
 
-# Brief description about the private projects on my github account.Please contact me if you want to view the complete code.
+
 
 # DocBot | ML based Disease Prediction and Hospital Booking WebApp
 We are living in an era where everyone is so busy with their work that they don’t have time to go through a periodic health check up in clinics.
