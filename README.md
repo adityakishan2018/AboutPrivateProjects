@@ -31,7 +31,7 @@ insights from the customers' interactions with the products in the shopping mall
 and sends periodically sends the insight report to the corresponding brand
 representative.
 
-### PROPOSED SOLUTION
+### Proposed Solution
 Following are solutions to the above-stated problems:
 1) A fully automated AI tool has been proposed that detects a human face, predicts,
 and stores the probable Age group and Gender of the interested customer in the
@@ -58,6 +58,9 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 ### Architecture Diagram
 ![15AID_ Architecture](https://user-images.githubusercontent.com/38396727/171904632-3c683729-0693-45d3-848e-a14c8caee8e6.jpg)
+
+### Demo ScreenShot
+![3LIVE_PLOT](https://user-images.githubusercontent.com/38396727/171907103-cfa7542c-7dcd-41c7-81e7-a5b5590da2cc.png)
 
 ### project demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
 
