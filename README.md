@@ -53,6 +53,10 @@ consisting of the insight report is sent.
 ### Tech-Stack: 
 Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other libraries
 
+### Data Flow Diagram
+![GitHub Logo](AboutPrivateProjects/images of AID project/14new_dfd.jpg)
+
+
 ### Architecture Diagram
 ![GitHub Logo](architecture_diagram.jpg)
 
