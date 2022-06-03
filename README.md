@@ -1,3 +1,66 @@
+# AiD | Integrated AI tool in shopping malls to aid advertising decisions
+
+Big shopping malls are facing competition from e-commerce giants like Flipkart and
+Amazon. We all know that our interactions with e-commerce applications are closely
+monitored and this information is then further used for targeted marketing. These ecommerce portals are efficiently using the digital footprints left by their potential
+customers to generate key insights and offer customized ads. But unfortunately, there
+isn’t any mechanism in practice to capture these data in offline retail stores. Our proposed
+application aims to solve this problem by smartly capturing important customer behavior
+data, analyzing it, and then sharing it with the company to efficiently channel their
+advertising budget.
+This mini project is a small endeavor toward solving these issues. 
+
+There are four main problems that we are trying to solve with the help of this project:
+### Following are some of the problems in the existing system:
+A cumbersome manual customer feedback collection system, regarding a specific
+product (in malls and retail stores) is not only time-consuming but also inefficient
+in approach.
+II. Since the traditional feedback collection approach involves hiring human
+resources, large capital investment and human-made errors are inevitable.
+III. Manually feeding the collected feedback for processing and generating insights is
+again time taking.
+IV. Sometimes, to make quick advertising decisions, the current market demands of a
+targeted gender/age group are required. But in most cases, these data analysis
+processes are scheduled at the month-end.
+V. All the above problems have been easily tackled by the e-commerce platforms
+like Flipkart and Amazon and they are successfully using the collected data to
+make appropriate business decisions. Consequently, consumer products are
+supplied more on e-commerce platforms compared to physical retail stores and
+malls. There is an absence of a robust system that captures, stores, and generates 
+insights from the customers' interactions with the products in the shopping malls,
+and sends periodically sends the insight report to the corresponding brand
+representative.
+
+### PROPOSED SOLUTION
+Following are solutions to the above-stated problems:
+I. A fully automated AI tool has been proposed that detects a human face, predicts,
+and stores the probable Age group and Gender of the interested customer in the
+database for further analysis.
+II. Since this system is completely automated, the collected data is error-free and it
+saves a huge amount of capital that used to be spent on human resource allocation.
+III. Data collection and insight generation are very fast as these are automated
+processes.
+IV. Live video feed (from all the connected cameras) with appropriately tagged Agegroup and gender, with real-time data plotting showing the percentage
+contribution of the targeted group. This real-time data illustrating the interest of
+the targeted group could be relied upon to make quick business decisions.
+V. When the session is ended by the brand representative, and the current time and
+weekday fall in the time frame and weekday allotted for that product, the brand
+representative is prompted to sign in, and then the report is sent to his mail id.
+VI. When the password is entered and the authentication process is successful, a mail
+consisting of the insight report is sent.
+
+
+### Tech-Stack: 
+Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
+
+### Architecture Diagram
+![GitHub Logo](architecture_diagram.jpg)
+
+### project demo ( )
+### project documentation (  )
+
+
+
 
 # Brief description about the private projects on my github account.Please contact me if you want to view the complete code.
 
