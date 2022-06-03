@@ -60,7 +60,6 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 ![15AID_ Architecture](https://user-images.githubusercontent.com/38396727/171904632-3c683729-0693-45d3-848e-a14c8caee8e6.jpg)
 
 ### project demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
-### project documentation (  )
 
 
 
@@ -135,7 +134,6 @@ Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
 # CrypTalk
 Web application for customized message encryption(only for a single organisation which requires secure message platform).This is a mini project done for ISS (Information and System Security) course at VIT-AP University.
 ### project demo ( https://youtu.be/0wdVwwQN6Zs )
-### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/CrypTalk_Project_Report.pdf )
 ### visit the WebApp (https://cryptalk.000webhostapp.com/).
 
 
