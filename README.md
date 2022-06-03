@@ -12,17 +12,17 @@ This mini project is a small endeavor toward solving these issues.
 
 There are four main problems that we are trying to solve with the help of this project:
 ### Following are some of the problems in the existing system:
-A cumbersome manual customer feedback collection system, regarding a specific
+1) A cumbersome manual customer feedback collection system, regarding a specific
 product (in malls and retail stores) is not only time-consuming but also inefficient
 in approach.
-II. Since the traditional feedback collection approach involves hiring human
+2) Since the traditional feedback collection approach involves hiring human
 resources, large capital investment and human-made errors are inevitable.
-III. Manually feeding the collected feedback for processing and generating insights is
+3) Manually feeding the collected feedback for processing and generating insights is
 again time taking.
-IV. Sometimes, to make quick advertising decisions, the current market demands of a
+4) Sometimes, to make quick advertising decisions, the current market demands of a
 targeted gender/age group are required. But in most cases, these data analysis
 processes are scheduled at the month-end.
-V. All the above problems have been easily tackled by the e-commerce platforms
+5) All the above problems have been easily tackled by the e-commerce platforms
 like Flipkart and Amazon and they are successfully using the collected data to
 make appropriate business decisions. Consequently, consumer products are
 supplied more on e-commerce platforms compared to physical retail stores and
