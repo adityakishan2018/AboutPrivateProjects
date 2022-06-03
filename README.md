@@ -54,13 +54,12 @@ consisting of the insight report is sent.
 Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other libraries
 
 ### Data Flow Diagram
-![GitHub Logo](images of AID project/14new_dfd.jpg)
-
+![14new_dfd](https://user-images.githubusercontent.com/38396727/171904580-a87daebd-beaa-4405-9b21-db2c02aca0d4.jpg)
 
 ### Architecture Diagram
-![GitHub Logo](architecture_diagram.jpg)
+![15AID_ Architecture](https://user-images.githubusercontent.com/38396727/171904632-3c683729-0693-45d3-848e-a14c8caee8e6.jpg)
 
-### project demo ( )
+### project demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
 ### project documentation (  )
 
 
