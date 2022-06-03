@@ -33,25 +33,25 @@ representative.
 
 ### PROPOSED SOLUTION
 Following are solutions to the above-stated problems:
-I. A fully automated AI tool has been proposed that detects a human face, predicts,
+1) A fully automated AI tool has been proposed that detects a human face, predicts,
 and stores the probable Age group and Gender of the interested customer in the
 database for further analysis.
-II. Since this system is completely automated, the collected data is error-free and it
+2) Since this system is completely automated, the collected data is error-free and it
 saves a huge amount of capital that used to be spent on human resource allocation.
-III. Data collection and insight generation are very fast as these are automated
+3) Data collection and insight generation are very fast as these are automated
 processes.
-IV. Live video feed (from all the connected cameras) with appropriately tagged Agegroup and gender, with real-time data plotting showing the percentage
+4) Live video feed (from all the connected cameras) with appropriately tagged Agegroup and gender, with real-time data plotting showing the percentage
 contribution of the targeted group. This real-time data illustrating the interest of
 the targeted group could be relied upon to make quick business decisions.
-V. When the session is ended by the brand representative, and the current time and
+5) When the session is ended by the brand representative, and the current time and
 weekday fall in the time frame and weekday allotted for that product, the brand
 representative is prompted to sign in, and then the report is sent to his mail id.
-VI. When the password is entered and the authentication process is successful, a mail
+6) When the password is entered and the authentication process is successful, a mail
 consisting of the insight report is sent.
 
 
 ### Tech-Stack: 
-Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
+Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other libraries
 
 ### Architecture Diagram
 ![GitHub Logo](architecture_diagram.jpg)
