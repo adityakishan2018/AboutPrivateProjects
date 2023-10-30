@@ -143,8 +143,8 @@ Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
  - ### Architecture Diagram
 ![GitHub Logo](architecture_diagram.jpg)
 
-### project demo ( )
-### project documentation ( https://drive.google.com/file/d/1i92G5R2z-yPtwQFX5K2erMU-dQnmT5oH/view?usp=drive_link )
+ - ### Detailed Report Documentation ( https://drive.google.com/file/d/1i92G5R2z-yPtwQFX5K2erMU-dQnmT5oH/view?usp=drive_link )
+ - ### project demo ( )
 
 
 ## Image Steganography using Python
