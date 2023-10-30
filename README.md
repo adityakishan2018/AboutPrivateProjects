@@ -13,8 +13,8 @@ data, analyzing it, and then sharing it with the company to efficiently channel 
 advertising budget.
 This mini project is a small endeavor toward solving these issues. 
 
-There are four main problems that we are trying to solve with the help of this project:
-### Following are some of the problems in the existing system:
+
+ - ### Following are some of the problems in the existing system:
 1) A cumbersome manual customer feedback collection system, regarding a specific
 product (in malls and retail stores) is not only time-consuming but also inefficient
 in approach.
@@ -34,7 +34,7 @@ insights from the customers' interactions with the products in the shopping mall
 and sends periodically sends the insight report to the corresponding brand
 representative.
 
-### Proposed Solution
+ - ### Proposed Solution
 Following are solutions to the above-stated problems:
 1) A fully automated AI tool has been proposed that detects a human face, predicts,
 and stores the probable Age group and Gender of the interested customer in the
@@ -53,23 +53,23 @@ representative is prompted to sign in, and then the report is sent to his mail i
 consisting of the insight report is sent.
 
 
-### Tech-Stack: 
+ - ### Tech-Stack: 
 Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other libraries
 
-### Data Flow Diagram
+ - ### Data Flow Diagram
 ![14new_dfd](https://user-images.githubusercontent.com/38396727/171904580-a87daebd-beaa-4405-9b21-db2c02aca0d4.jpg)
 
-### Architecture Diagram
+ - ### Architecture Diagram
 ![15AID_ Architecture](https://user-images.githubusercontent.com/38396727/171904632-3c683729-0693-45d3-848e-a14c8caee8e6.jpg)
 
-### Demo ScreenShot
+ - ### Demo ScreenShot
 ![3LIVE_PLOT](https://user-images.githubusercontent.com/38396727/171907103-cfa7542c-7dcd-41c7-81e7-a5b5590da2cc.png)
 
-### Certificate of Appreciation for Conference presentation in ICCPET 2022 
+ - ### Certificate of Appreciation for Conference presentation in ICCPET 2022 
 
-- [AID_project_conference_presetation.pdf](https://github.com/adityakishan2018/AboutPrivateProjects/files/13203199/AID_project_conference_presetation.pdf)
+ [AID_project_conference_presetation.pdf](https://github.com/adityakishan2018/AboutPrivateProjects/files/13203199/AID_project_conference_presetation.pdf)
 
-### Project Demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
+ - ### Project Demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
 
 
 
