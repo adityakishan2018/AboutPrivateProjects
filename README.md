@@ -1,6 +1,6 @@
 # Brief description about the private projects on my github account.Please contact me if you want to view the complete code.
 
-# AiD | Integrated AI tool in shopping malls to aid advertising decisions
+## AiD | Integrated AI tool in shopping malls to aid advertising decisions
 
  - ### Brief Description: 
 Big shopping malls are facing competition from e-commerce giants like Flipkart and
@@ -77,7 +77,7 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 
 
-# DocBot | ML based Disease Prediction and Hospital Booking WebApp
+## DocBot | ML based Disease Prediction and Hospital Booking WebApp
 We are living in an era where everyone is so busy with their work that they don’t have time to go through a periodic health check up in clinics.
 As a result, we tend to ignore certain signs that our body is trying to give out which eventually turns out to be a deadly uncurable disease.
 Apart from this, in India we have very few web platforms which helps us book appointment at multiple hospitals. Few Hospital like Apollo, Sevenhills hospitals have hospital specific booking system.
@@ -100,7 +100,7 @@ Moreover, consulting a doctor by meeting him/her in person, has become even more
 ### project documentation (  )
 ### visit the WebApp (http://docbot2021.herokuapp.com/).
 
-# Face Recognition Based Attendance Mailing System
+## Face Recognition-Based Attendance Mailing System
 The Face Recognition based Attendance (Slot basis) Mailing System is an automated service built to be used by the schools colleges and universities to solve a lot of problems which was not addressed by the previous Attendance System ( mainly Biometric based).  
 In the pre-covid era, when the classes used to be held in physical classrooms, attendance used to be taken using biometric sensors located outside the classroom. Separate 10 minutes were allotted for this purpose only. Since it used to be located outside the classroom, even the absentees who were bunking the class could give biometric. It is not feasible for a faculty to make note of all the absentees when the class strength is high.
 There are several colleges and schools which have already started doing physical classroom sessions keeping Covid protocol in consideration. But biometric based attendance system has created a challenge because it will increase the risk of spreading covid as all students of a class will be using same biometric machine.
@@ -141,11 +141,6 @@ Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
 
 ### project demo ( )
 ### project documentation (  )
-
-# CrypTalk
-Web application for customized message encryption(only for a single organisation which requires secure message platform).This is a mini project done for ISS (Information and System Security) course at VIT-AP University.
-### project demo ( https://youtu.be/0wdVwwQN6Zs )
-### visit the WebApp (https://cryptalk.000webhostapp.com/).
 
 
 # Image Steganography using Python
