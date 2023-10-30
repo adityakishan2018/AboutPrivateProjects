@@ -66,8 +66,7 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 ### Certificate of Appreciation for Conference presentation in ICCPET 2022 
 
-
-[AID_project_conference_presetation.pdf](https://github.com/adityakishan2018/AboutPrivateProjects/files/13203199/AID_project_conference_presetation.pdf)
+- [AID_project_conference_presetation.pdf](https://github.com/adityakishan2018/AboutPrivateProjects/files/13203199/AID_project_conference_presetation.pdf)
 
 ### project demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
 
