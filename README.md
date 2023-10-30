@@ -2,7 +2,7 @@
 
 # AiD | Integrated AI tool in shopping malls to aid advertising decisions
 
-<u>### Brief Description:</u>
+### Brief Description: 
 Big shopping malls are facing competition from e-commerce giants like Flipkart and
 Amazon. We all know that our interactions with e-commerce applications are closely
 monitored and this information is then further used for targeted marketing. These ecommerce portals are efficiently using the digital footprints left by their potential
@@ -69,7 +69,7 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 - [AID_project_conference_presetation.pdf](https://github.com/adityakishan2018/AboutPrivateProjects/files/13203199/AID_project_conference_presetation.pdf)
 
-### project demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
+### Project Demo (https://drive.google.com/file/d/1E1ZwyaI6gRRDPJaAFIcQ5jOcYLBEyqRi/view?usp=sharing )
 
 
 
