@@ -81,6 +81,7 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
 
 
 ## DocBot | ML based Disease Prediction and Hospital Booking WebApp
+ - ### Brief Description:
 We are living in an era where everyone is so busy with their work that they don’t have time to go through a periodic health check up in clinics.
 As a result, we tend to ignore certain signs that our body is trying to give out which eventually turns out to be a deadly uncurable disease.
 Apart from this, in India we have very few web platforms which helps us book appointment at multiple hospitals. Few Hospital like Apollo, Sevenhills hospitals have hospital specific booking system.
@@ -92,16 +93,16 @@ Moreover, consulting a doctor by meeting him/her in person, has become even more
  3) Build AWS Lex based chatbot (integrated with Messanger) for smooth appointment booking experience.
  4) Build “one stop solution” to all covid related services using Web API
 
-### Tech-Stack
+ - ### Tech-Stack
  HTML/CSS, Flask, Python, CoWIN API, AWS Lex, Heroku and various ML libraries for model preparation
  
-### Architecture Diagram
+ - ### Architecture Diagram
 ![GitHub Logo](Architecture.png)
 
- 
-### project demo (https://drive.google.com/file/d/14dP7q3WjSTDsgCJ-0KwNvdZ17U5qG7zw/view?usp=sharing )
-### project documentation (  )
-### visit the WebApp (http://docbot2021.herokuapp.com/).
+ - ### Detailed Report Documentation
+   https://drive.google.com/file/d/16o_NY6UWeN5cYQnT09NOWkBDWrfoc9kk/view?usp=sharing
+ - ### project demo (https://drive.google.com/file/d/14dP7q3WjSTDsgCJ-0KwNvdZ17U5qG7zw/view?usp=sharing )
+ - ### visit the WebApp (http://docbot2021.herokuapp.com/).
 
 ## Face Recognition-Based Attendance Mailing System
 The Face Recognition based Attendance (Slot basis) Mailing System is an automated service built to be used by the schools colleges and universities to solve a lot of problems which was not addressed by the previous Attendance System ( mainly Biometric based).  
@@ -109,8 +110,8 @@ In the pre-covid era, when the classes used to be held in physical classrooms, a
 There are several colleges and schools which have already started doing physical classroom sessions keeping Covid protocol in consideration. But biometric based attendance system has created a challenge because it will increase the risk of spreading covid as all students of a class will be using same biometric machine.
 This mini project is a small endeavour towards solving these issues. 
 
-There are four main problems that we are trying to solve with the help of this project:
-### Following are some of the problems in the existing system:
+
+ - ### Following are some of the problems in the existing system:
 1) Extra lecture time (10 minutes) wasted in registering attendance using a biometric sensorbased system.
 2) Absentees being able to give attendance because the sensor is located outside the
 classroom.
@@ -119,7 +120,7 @@ System
 4) (future problem) Students trying to give a proxy using friends' photos when they realise
 face recognition based technology is being used.
 
-### PROPOSED SOLUTION
+ - ### PROPOSED SOLUTION
 Following are solutions to the above-stated problems:
 1) With the help of face recognition (camera facing towards the classroom), the detected
 faces of the students in the live video feed will be taken and then matched with the faces
@@ -136,19 +137,19 @@ particular slot (day and time).
 7) As soon as the password is entered, a mail consisting of the attendance report (csv file
 consisting of present student details) is sent to his/her mail id.
 
-### Tech-Stack: 
+ - ### Tech-Stack: 
 Python, OpenCV, Dlib, Numpy, Smtplib and various other libraries
 
-### Architecture Diagram
+ - ### Architecture Diagram
 ![GitHub Logo](architecture_diagram.jpg)
 
 ### project demo ( )
-### project documentation (  )
+### project documentation ( https://drive.google.com/file/d/1i92G5R2z-yPtwQFX5K2erMU-dQnmT5oH/view?usp=drive_link )
 
 
-# Image Steganography using Python
+## Image Steganography using Python
 Today steganography is mostly used on computers with digital data, like Image, Audio, Video, Network packets, etc, acting as the carriers. Images are an excellent medium for concealing information because they provide a high degree of redundancy - which means that there are lots of bits that are there to provide accuracy far greater than necessary for the object's use (or display). Steganography techniques exploit these redundant bits to hide the information/payload by altering them in such a way that alterations cannot be detected easily by humans or computers.
-### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/Hiding_and_reveal_algo.pdf )
+ - ### project documentation ( https://github.com/adityakishan2018/AboutPrivateProjects/blob/master/Hiding_and_reveal_algo.pdf )
 
 
 
