@@ -2,7 +2,7 @@
 
 # AiD | Integrated AI tool in shopping malls to aid advertising decisions
 
-### <u>Brief Description:</u>
+<u>### Brief Description:</u>
 Big shopping malls are facing competition from e-commerce giants like Flipkart and
 Amazon. We all know that our interactions with e-commerce applications are closely
 monitored and this information is then further used for targeted marketing. These ecommerce portals are efficiently using the digital footprints left by their potential
