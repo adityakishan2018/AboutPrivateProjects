@@ -65,6 +65,9 @@ Python, OpenCV, DNN, MatPlotlib, FPDF, MySQL, Smtplib and various other librarie
  - ### Demo ScreenShot
 ![3LIVE_PLOT](https://user-images.githubusercontent.com/38396727/171907103-cfa7542c-7dcd-41c7-81e7-a5b5590da2cc.png)
 
+ - ### Detailed Report Documentation
+   https://drive.google.com/file/d/1ecF_yRTiu-jM7_IQLd9Pc4CCGAuzf-5a/view?usp=drive_link
+
  - ### Certificate of Appreciation for Conference presentation in ICCPET 2022 
 
    ![AID_project_conference_presetation_page-0001](https://github.com/adityakishan2018/AboutPrivateProjects/assets/38396727/187e771b-07eb-4665-8043-71bc3a3b408d)
